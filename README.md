@@ -1,4 +1,4 @@
 # OLVoyage
-RIBOURT Clément
-MAHAMOUD Nakib
-SAMAKE Adolphe Blon
+RIBOURT Clément  
+MAHAMOUD Nakib  
+SAMAKE Adolphe Blon  
